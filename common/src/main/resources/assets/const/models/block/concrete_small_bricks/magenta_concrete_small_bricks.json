@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "const:block/concrete_small_bricks/magenta_concrete_small_bricks"
+  }
+}

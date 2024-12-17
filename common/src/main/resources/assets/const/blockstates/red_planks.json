@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/planks/red_planks"
+    }
+  }
+}

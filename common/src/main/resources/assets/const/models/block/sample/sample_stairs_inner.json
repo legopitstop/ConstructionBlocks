@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "const:block/sample",
+    "top": "const:block/sample",
+    "side": "const:block/sample"
+  }
+}

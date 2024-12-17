@@ -1,0 +1,46 @@
+{
+  "block.celingtile.break": {
+    "sounds": [
+      "dig/celingtile1",
+      "dig/celingtile2",
+      "dig/celingtile3",
+      "dig/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.celingtile.fall": {
+    "sounds": [
+      "step/celingtile1",
+      "step/celingtile2",
+      "step/celingtile3",
+      "step/celingtile4"
+    ]
+  },
+  "block.celingtile.hit": {
+    "sounds": [
+      "step/celingtile1",
+      "step/celingtile2",
+      "step/celingtile3",
+      "step/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.celingtile.place": {
+    "sounds": [
+      "dig/celingtile1",
+      "dig/celingtile2",
+      "dig/celingtile3",
+      "dig/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.celingtile.step": {
+    "sounds": [
+      "step/celingtile1",
+      "step/celingtile2",
+      "step/celingtile3",
+      "step/celingtile4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}

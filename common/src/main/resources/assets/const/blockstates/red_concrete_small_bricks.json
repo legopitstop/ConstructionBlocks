@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/concrete_small_bricks/red_concrete_small_bricks"
+    }
+  }
+}

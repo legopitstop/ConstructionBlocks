@@ -1,1 +1,6 @@
-{ "values": ["tick"] }
+{
+    "replace": false,
+    "values": [
+        "data/clear_illegal_items"
+    ]
+}

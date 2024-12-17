@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/celingtile/purple_celingtile"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "const:block/concrete_large_bricks/purple_concrete_large_bricks"
+  }
+}

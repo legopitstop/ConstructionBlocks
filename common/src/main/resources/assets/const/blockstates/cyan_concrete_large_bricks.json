@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/concrete_large_bricks/cyan_concrete_large_bricks"
+    }
+  }
+}

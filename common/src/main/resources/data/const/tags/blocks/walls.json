@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "const:sample_wall",
+    "const:caution_wall"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/planks/brown_planks"
+    }
+  }
+}

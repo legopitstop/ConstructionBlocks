@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "const:block/bookshelf/spruce_bookshelf"
+    }
+  }
+}
